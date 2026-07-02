@@ -1,0 +1,4 @@
+{
+  "plugin": ["@dietrichgebert/ponytail"],
+  "instructions": ["AGENTS.md"]
+}
