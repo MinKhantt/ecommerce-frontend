@@ -1,4 +1,4 @@
-# GreenCart — Fresh Groceries Delivered
+# QuickMart — Fresh Groceries Delivered
 
 E-commerce grocery delivery frontend built with React 18, TypeScript, and Tailwind CSS.
 

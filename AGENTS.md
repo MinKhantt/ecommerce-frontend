@@ -1,4 +1,4 @@
-# GreenCart Frontend — Agent Guide
+# QuickMart Frontend — Agent Guide
 
 ## Commands
 

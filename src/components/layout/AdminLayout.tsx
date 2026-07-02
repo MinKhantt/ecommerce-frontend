@@ -15,7 +15,7 @@ export default function AdminLayout() {
       {/* Sidebar */}
       <aside className="fixed left-0 top-0 h-screen w-56 bg-ink flex flex-col z-50">
         <Link to="/admin" className="flex items-center gap-2 px-5 h-14 border-b border-hairline shrink-0 font-mono font-bold text-sm text-on-dark no-underline">
-          GreenCart
+          QuickMart
         </Link>
 
         <nav className="flex-1 py-3 px-2 space-y-0.5 overflow-y-auto">
